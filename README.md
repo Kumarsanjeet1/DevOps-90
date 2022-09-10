@@ -1,4 +1,9 @@
-# ![image](https://user-images.githubusercontent.com/89514486/180936251-96621d62-f0ed-41d3-a5a2-d7a7bac95dad.png)
+
+![White and Black Simple Boutique Initials Logo (500 × 400 px) (500 × 1000 px)](https://user-images.githubusercontent.com/89514486/181165844-e8056305-1ef0-41f0-934e-9552fd1a9e1e.png)
+
+##
+
+
 
 - This repository is documenting my learning and journey of 90 days in World of DevOps field as a repository.
 - Goal
@@ -117,8 +122,8 @@
 -  [ ]   `87`
 -  [ ]   `88`
 -  [ ]   `89`
-### 90Days complete
 -  [ ]   `90`
+### 90Days complete
 
 
 
